@@ -1,0 +1,23 @@
+# Core data processing and FireBench Zarr access
+numpy
+pandas
+xarray
+zarr
+gcsfs
+
+# Model training and serialization
+scikit-learn
+joblib
+
+# Terrain GeoTIFF and coordinate transformations
+rasterio
+pyproj
+
+# Weather API
+requests
+python-dotenv
+
+# Notebook analysis and plotting
+ipykernel
+matplotlib
+seaborn
